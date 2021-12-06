@@ -1,0 +1,22 @@
+{
+  "name": "vromao-ds",
+  "version": "0.0.1",
+  "description": "vromao design system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vromao/vromao-ds.git"
+  },
+  "author": "Vinícius Romão (vromao)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vromao/vromao-ds/issues"
+  },
+  "homepage": "https://github.com/vromao/vromao-ds#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
